@@ -26,5 +26,3 @@ You can find more info about me or get into contact with me by:
 - @physicskaze
 
 ![kazewong's Stats](https://github-readme-stats.vercel.app/api?username=kazewong&theme=blueberry&show_icons=true&hide_border=false&count_private=false)
-
-![kazewong's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kazewong&theme=blueberry&hide_border=false)
